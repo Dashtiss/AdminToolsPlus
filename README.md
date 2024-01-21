@@ -1,4 +1,4 @@
-# AdminTools
+# AdminToolsPlus
 An SCP:SL EXILED plugin that gives server owners fun commands and logging functionality for their servers
 
 ### Features
